@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/examen/static/css/main.a617e044.chunk.css",
+    "main.js": "/examen/static/js/main.8b8a1e7a.chunk.js",
+    "main.js.map": "/examen/static/js/main.8b8a1e7a.chunk.js.map",
+    "runtime-main.js": "/examen/static/js/runtime-main.c9e7c250.js",
+    "runtime-main.js.map": "/examen/static/js/runtime-main.c9e7c250.js.map",
+    "static/js/2.d2677464.chunk.js": "/examen/static/js/2.d2677464.chunk.js",
+    "static/js/2.d2677464.chunk.js.map": "/examen/static/js/2.d2677464.chunk.js.map",
+    "static/js/3.924af679.chunk.js": "/examen/static/js/3.924af679.chunk.js",
+    "static/js/3.924af679.chunk.js.map": "/examen/static/js/3.924af679.chunk.js.map",
+    "index.html": "/examen/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/examen/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d2677464.chunk.js.LICENSE.txt": "/examen/static/js/2.d2677464.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/examen/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9e7c250.js",
+    "static/js/2.d2677464.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8b8a1e7a.chunk.js"
+  ]
+}
